@@ -4,19 +4,18 @@
     <TargetFramework>netstandard2.0</TargetFramework>
     <AssemblyName>thZero.NetCore.Library.Asp.Instrumentation</AssemblyName>
     <PackageId>thZero.NetCore.Library.Asp.Instrumentation</PackageId>
+    <Description></Description>
+    <Authors>thZero.com</Authors>
     <GenerateAssemblyConfigurationAttribute>false</GenerateAssemblyConfigurationAttribute>
     <GenerateAssemblyCompanyAttribute>false</GenerateAssemblyCompanyAttribute>
     <GenerateAssemblyProductAttribute>false</GenerateAssemblyProductAttribute>
     <GenerateAssemblyCopyrightAttribute>false</GenerateAssemblyCopyrightAttribute>
     <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
     <PackageRequireLicenseAcceptance>True</PackageRequireLicenseAcceptance>
-    <PackageLicenseUrl>http://www.apache.org/licenses/LICENSE-2.0.txt</PackageLicenseUrl>
-    <RepositoryUrl>https://github.com/thzero/thZero.NetCore.Library.Asp.Instrumentation</RepositoryUrl>
+    <PackageLicenseExpression>Apache-2.0</PackageLicenseExpression>
     <PackageProjectUrl>https://github.com/thzero/thZero.NetCore.Library.Asp.Instrumentation</PackageProjectUrl>
     <RepositoryType>GitHub</RepositoryType>
-    <Authors>thZero.com</Authors>
-    <Description />
-    <RootNamespace>thZero.AspNetCore</RootNamespace>
+    <RepositoryUrl>https://github.com/thzero/thZero.NetCore.Library.Asp.Instrumentation</RepositoryUrl>
   </PropertyGroup>
 
   <ItemGroup>
