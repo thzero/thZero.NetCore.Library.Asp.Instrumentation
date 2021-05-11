@@ -1,5 +1,5 @@
 thZero.NetCore.Library.Asp.Instrumentation
-Copyright (C) 2016-2019 thZero.com
+Copyright (C) 2016-2020 thZero.com
 
 <development [at] thzero [dot] com>
 
